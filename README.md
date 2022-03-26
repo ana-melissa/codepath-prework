@@ -35,6 +35,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
+- [ ] Identifying pictures inside each box.
+- [ ] Website with image background. 
+- [ ] Additional buttons with the same functions and new playback tones.
 
 ## Video Walkthrough (GIF)
 
