@@ -1,0 +1,76 @@
+
+body {
+  font-family: verdana, arial, sans-serif;
+  background-color: darkmagenta;
+  background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/photo-1570367364062-4ab01ebf0954.jpg?v=1648266454586);
+  background-size: 50%; /* To fill the dimensions of container (button), or */
+  background-size: 1300px auto; 
+  margin: 2em;
+  color: Black;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+  background-size: 100%; /* To fill the dimensions of container (button), or */
+  background-size: 200px auto; 
+}
+
+/* hide end button */
+.hidden {
+  display: none;
+}
+
+
+#button1 {
+    background: mediumseagreen;
+}
+#button1:active, #button1.lit {
+    background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/basking-shark-sennen-760x660.jpg?v=1648179901348);
+}
+
+#button2 {
+    background: darkturquoise;
+}
+#button2:active, #button2.lit{
+    background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/vermilion-rockfish-mindy-linford.jpg?v=1648180025588);
+}
+
+
+#button3 {
+    background: indianred;
+}
+#button3:active, #button3.lit {
+    background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/3nYP2v0W9J.jpg?v=1648180074229);
+}
+
+#button4 {
+    background: sandybrown;
+}
+#button4:active, #button4.lit {
+  background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/54382571-10529225-image-a-11_1645227586405.avif?v=1648180188275);
+}
+
+#button5 {
+    background: teal;
+}
+#button5:active, #button5.lit {
+  background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/_YAP3582_960px.jpg?v=1648180235605);
+}
+
+#button6 {
+    background: blueviolet;
+}
+#button6:active, #button6.lit {
+  background-image: url(https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/istockphoto-149112991-612x612.jpg?v=1648180576895);
+}
