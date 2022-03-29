@@ -31,6 +31,7 @@ function stopGame(){
 
 // Sound Synthesis Functions
 const freqMap = {
+  // the higher the frequencies the higher the number
   1: 261.6,
   2: 329.6,
   3: 392,
