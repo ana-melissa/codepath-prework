@@ -97,8 +97,6 @@ function playSingleClue(btn){
 
 function playClueSequence(){
   guessCounter = 0;
-  //context.resume()
-
   let delay = nextClueWaitTime; //set delay to initial wait time
   for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
@@ -127,25 +125,18 @@ function guess(btn){
     return;
   }
   
-  // add game logic here
   if (pattern[guessCounter] == btn) {
-    //Guess was correct!
     if(guessCounter == progress){
       if(progress == pattern.length - 1){
-        //GAME OVER: WIN!
         winGame();
       }else{
-        //Pattern correct. Add next segment
         progress++;
         playClueSequence();
       }
     }else{
-      //so far so good... check the next guess
       guessCounter++;
     }
   }else{
-    //Guess was incorrect
-    //GAME OVER: LOSE!
     loseGame();
   }
 }
