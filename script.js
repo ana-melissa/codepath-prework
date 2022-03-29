@@ -100,7 +100,6 @@ function playClueSequence(){
 
   let delay = nextClueWaitTime; //set delay to initial wait time
   for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
-    //value += Math.floor(random_pattern(0, 7));
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
 
     setTimeout(playSingleClue,delay, pattern[i]) // set a timeout to play that clue
@@ -128,7 +127,6 @@ function guess(btn){
   }
   
   // add game logic here
-  //if(pattern[guessCounter] == btn){
   if (pattern[guessCounter] == btn) {
     //Guess was correct!
     if(guessCounter == progress){
