@@ -47,14 +47,19 @@ Memory Game Longer Demo
 ![](https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/memory-game-gif-even-longer-demo.gif?v=1648268634912)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Works Cited
-“@fishx6.” The Blue-Black Urchin - Whats That Fish!, www.whatsthatfish.com/fish/blueblack-urchin/3189.
-Abp. 10 Things You Might Not Know about Basking Sharks, in Numbers, www.abpmer.co.uk/blog/10-things-you-might-not-know-about-basking-sharks-in-numbers/.
-FtLaudGirl. “Yellow Tail Snapper Swimming in Ocean.” IStock, www.istockphoto.com/photo/yellowtail-snapper-in-ocean-gm149112991-20883372.
-“Giant (Black) Sea Bass.” National Parks Service, U.S. Department of the Interior, www.nps.gov/chis/learn/nature/giant-black-seabass.htm.
-Lee, Anchor. “Photo by Anchor Lee on Unsplash.” Beautiful Free Images &amp; Pictures, 5 Sept. 2019, unsplash.com/photos/sYWR56jWiik.
-“Vermilion Rockfish by Mindy Linford.” Pixels, pixels.com/featured/vermilion-rockfish-mindy-linford.html.
-]
+Works Cited
+“@fishx6.” The Blue-Black Urchin - Whats That Fish!, [www.whatsthatfish.com/fish/blueblack-urchin/3189].
+
+Abp. 10 Things You Might Not Know about Basking Sharks, in Numbers, [www.abpmer.co.uk/blog/10-things-you-might-not-know-about-basking-sharks-in-numbers/].
+
+FtLaudGirl. “Yellow Tail Snapper Swimming in Ocean.” IStock, [www.istockphoto.com/photo/yellowtail-snapper-in-ocean-gm149112991-20883372].
+
+“Giant (Black) Sea Bass.” National Parks Service, U.S. Department of the Interior, [www.nps.gov/chis/learn/nature/giant-black-seabass.htm].
+
+Lee, Anchor. “Photo by Anchor Lee on Unsplash.” Beautiful Free Images &amp; Pictures, 5 Sept. 2019, [unsplash.com/photos/sYWR56jWiik].
+
+“Vermilion Rockfish by Mindy Linford.” Pixels, [pixels.com/featured/vermilion-rockfish-mindy-linford.html].
+
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
