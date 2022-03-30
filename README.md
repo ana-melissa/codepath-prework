@@ -74,9 +74,9 @@ Works Cited
 [If I had a few more hours, I'd like to add additional buttons but make them different shapes instead of squares. I mentioned in the second question that I was working on implementing a random number generator but I couldn't quite figure it out. If I had had more time I could have found my bug, but I plan to complete implementing the random pattern generator as soon as possible. If I had a few more hours, I would have figured out how to implement a multiple page website. More specifically, when a user wins or loses, they are brought to a different page with either congratulating animations (they won) or sad animations (they lost). Another feature that I would have added to the game was moving pictures or subject specific pictures inside of each button instead of still pictures. This feature would have made the game more interesting and fun. Eventually I would like to speed up the game to make it a little more difficult and give the player strikes but only if they are close to the end of the sequence. ]
 
 ## Interview Recording URL Link
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://1drv.ms/v/s!AlCnjLloUK7ijCKbxY_LhpxTQld6?e=aGjamd)
 ## License
-    Copyright [YOUR NAME]
+    Copyright [Ana Melissa]
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
