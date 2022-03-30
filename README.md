@@ -23,23 +23,17 @@ The following **optional** features are implemented:
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
 The following **additional** features are implemented:
-- [ ] List anything else that you can get done to improve the app!
 - [ ] Identifying pictures inside each box.
 - [ ] Website with image background. 
-- [ ] Additional buttons with the same functions and new playback tones.
+
 ## Video Walkthrough (GIF)
 Website Title:
 ![](https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/memory-game-gif-website-name.gif?v=1648268639347)
-Inside Each Button
+Inside Each Button and Button Functionality
 ![](https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/memory-game-what-the-buttons-look-like.gif?v=1648268732229)
-How to Start Memory Game
+How to Start Memory Game / Start Button
 ![](https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/memory-game-gif-how-to-start.gif?v=1648267998534)
 Memory Game Demo
 ![](https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/memory-game-gif-longer-demo.gif?v=1648268044566)
@@ -47,7 +41,9 @@ Memory Game Longer Demo
 ![](https://cdn.glitch.global/9905550e-1cd5-4583-849a-95bbbcba93b1/memory-game-gif-even-longer-demo.gif?v=1648268634912)
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-Works Cited
+    
+    Works Cited: Pictures:
+    
     “@fishx6.” The Blue-Black Urchin - Whats That Fish!, [www.whatsthatfish.com/fish/blueblack-urchin/3189].
 
     Abp. 10 Things You Might Not Know about Basking Sharks, in Numbers, [www.abpmer.co.uk/blog/10-things-you-might-not-know-about-basking-sharks-in-numbers/].
